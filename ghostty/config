@@ -9,4 +9,3 @@ command = /opt/homebrew/bin/fish
 shell-integration = fish
 font-size = 24
 font-family = "TX-02"
-background-opacity = 0.91
