@@ -2,7 +2,7 @@
 
 an attempt to sync my setup
 
-Terminal: alacritty
+Terminal: ghostty
 
 Editor: nvim
 

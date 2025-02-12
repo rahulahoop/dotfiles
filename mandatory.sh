@@ -1,1 +1,1 @@
-brew install alacritty figlet fish tree 
+brew install figlet fish tree pass 

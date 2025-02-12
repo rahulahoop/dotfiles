@@ -1,4 +1,10 @@
+font-family = TX-02
+font-family-bold = TX-02
+font-family-italic = TX-02
+font-family-bold-italic = TX-02
+font-size = 22
+command = /opt/homebrew/bin/fish
+click-repeat-interval = 500
+auto-update-channel = stable
 shell-integration = fish
-font-family = ""
-font-family = "TX-02"
 background-opacity = 0.91
