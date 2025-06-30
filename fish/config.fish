@@ -8,3 +8,4 @@ set -x GOPATH $HOME/go
 set -x PATH $PATH /usr/local/go/bin $HOME/go/bin
 set PATH $HOME/.jenv/bin $PATH
 status --is-interactive; and jenv init - | source
+set -x MANPAGER 'nvim +Man!'
