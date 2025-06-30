@@ -1,3 +1,3 @@
 function mstr
-    command cat /opt/roboform/.master |pbcopy
+    command pass show -c master
 end
